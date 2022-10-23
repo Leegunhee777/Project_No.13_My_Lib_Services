@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-나의 서비스를 만들기위한 라이브러리 
+# 나의 서비스를 만들기위한 라이브러리 
 
 # Getting Started with Create React App
 
